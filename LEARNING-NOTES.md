@@ -7,6 +7,11 @@ Learn about tokenizers
 - Bigrams (Finnic example)
 
 ### LangChain
+Document loaders
+Splitters
 
 ### Evaluation
+
+Asked Jussi Karlgren about evaluation in the industry  
+
 ### RAG
